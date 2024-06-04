@@ -1,1 +1,1 @@
-again a configuration file
+again a configuration file (v2)
